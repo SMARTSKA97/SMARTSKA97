@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <br>
-[![roadmap.sh](https://roadmap.sh/card/tall/66bb619e427a3205d54dce40?variant=dark)](https://roadmap.sh)
-<br>
+https://roadmap.sh/card/tall/66bb619e427a3205d54dce40?variant=dark
