@@ -1,3 +1,6 @@
+[![GitHub Streak](https://streak-stats.demolab.com?user=SMARTSKA97&theme=dark)](https://git.io/streak-stats)
+
+
 ## Hi there 👋
 
 <!--
@@ -14,7 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=SMARTSKA97)](https://git.io/streak-stats)
 <br>
 https://roadmap.sh/card/tall/66bb619e427a3205d54dce40?variant=dark
 <br>
