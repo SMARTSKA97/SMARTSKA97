@@ -1,5 +1,5 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=SMARTSKA97&hide_border=true&card_width=500&card_height=200&sideLabels=065506&background=50%2CC9EB9A%2CEBE1D7&border=001003&stroke=0E6F28&ring=0E6F28&fire=0E6F28&currStreakNum=0E6F28&sideNums=0E6F28&currStreakLabel=0E6F28&dates=0E6F28&excludeDaysLabel=0E6F28)](https://git.io/streak-stats)
 
+<span style="text-align: center; display: block;">[![GitHub Streak](https://streak-stats.demolab.com?user=SMARTSKA97&hide_border=true&card_width=500&card_height=200&sideLabels=065506&background=50%2CC9EB9A%2CEBE1D7&border=001003&stroke=0E6F28&ring=0E6F28&fire=0E6F28&currStreakNum=0E6F28&sideNums=0E6F28&currStreakLabel=0E6F28&dates=0E6F28&excludeDaysLabel=0E6F28)](https://git.io/streak-stats)</span>
 
 ## Hi there 👋
 
